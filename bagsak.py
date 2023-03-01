@@ -1,0 +1,1 @@
+print("sir nganung ako paman ang leader")
